@@ -13,6 +13,7 @@
 
 - 🌱 I’m currently learning **Golang and C++**
 - 💬 Ask me about **anything other than coding lol**
+- I use **Arch Linux** btw (lol)
 
 ---
 
