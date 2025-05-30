@@ -11,7 +11,7 @@
 
 ---
 
-- 🌱 I’m currently learning **Golang and C++**
+- 🌱 I’m currently learning **Rust**
 - 💬 Ask me about **anything other than coding lol**
 - Fun Fact: Golang’s mascot, the Gopher, was created by Renée French, the same artist behind the character designs for the book The Alphabet of Manliness by Maddox. 
 
